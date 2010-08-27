@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Motion Commands</string>
+	<key>ordering</key>
+	<array>
+		<string>1958DD96-592C-4972-8AAC-B9C1858BD00F</string>
+		<string>DA7C6672-79BA-49EB-9EC8-9D363A794194</string>
+		<string>2F8EDF1E-6138-4E4E-896B-D071C4DC83F8</string>
+		<string>A66706F3-E29D-423A-98AC-52B421A3EF26</string>
+	</array>
+	<key>uuid</key>
+	<string>1F7B765D-758D-4A5E-9AC9-8C4001559181</string>
+</dict>
+</plist>
