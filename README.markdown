@@ -19,7 +19,7 @@ To install via Git:
 
     mkdir -p ~/Library/Application\ Support/TextMate/Bundles
     cd ~/Library/Application\ Support/TextMate/Bundles
-    git clone git@github.com:rwilcox/motion_commands.tmbundle.git
+    git clone git://github.com/rwilcox/motion_commands.tmbundle.git
     osascript -e 'tell app "TextMate" to reload bundles'
 
 Source can be viewed or forked via GitHub: [http://github.com/rwilcox/motion_commands.tmbundle](http://github.com/rwilcox/motion_commands.tmbundle)
